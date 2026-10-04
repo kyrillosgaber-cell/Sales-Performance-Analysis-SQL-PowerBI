@@ -195,10 +195,10 @@ Sales-Performance-Analysis-SQL-PowerBI/
 ├── SQL/
 │   └── 01_Data_Quality_and_KPIs.sql
 │
-├── PowerBI/
+├── POWER BI/
 │   └── Sales_Performance_Analysis.pbix
 │
-├── Images/
+├── IMAGES/
 │   ├── 01_executive_overview.png
 │   ├── 02_sales_performance_analysis.png
 │   ├── 03_key_insights_recommendations.png

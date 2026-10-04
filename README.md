@@ -94,7 +94,7 @@ The main dimension tables are:
 
 Each dimension has a one-to-many relationship with `FactSales`.
 
-![Data Model](Images/04_data_model.png)
+![Data Model](IMAGES/04_data_model.png)
 
 ## Key Metrics
 
@@ -116,7 +116,7 @@ The Executive Overview provides a high-level view of overall business performanc
 
 Interactive filters allow the report to be analyzed by year, customer category, and city.
 
-![Executive Overview](Images/01_executive_overview.png)
+![Executive Overview](IMAGES/01_executive_overview.png)
 
 ### 2. Sales Performance Analysis
 
@@ -129,7 +129,7 @@ It includes:
 - Revenue by city
 - Product revenue versus profitability analysis
 
-![Sales Performance Analysis](Images/02_sales_performance_analysis.png)
+![Sales Performance Analysis](IMAGES/02_sales_performance_analysis.png)
 
 ## Key Business Insights
 
@@ -185,7 +185,7 @@ Based on the analysis:
 
 ## Final Business Insights
 
-![Key Business Insights](Images/03_key_insights_recommendations.png)
+![Key Business Insights](IMAGES/03_key_insights_recommendations.png)
 
 ## Repository Structure
 
